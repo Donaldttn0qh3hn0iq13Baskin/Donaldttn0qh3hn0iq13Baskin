@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm Donaldttn0qh3hn0iq13Baskin
 
-<!--
-**Donaldttn0qh3hn0iq13Baskin/Donaldttn0qh3hn0iq13Baskin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏒 🏒 🎱 A geek in tech gadgets 🏒 🏒 🎱
 
-Here are some ideas to get you started:
+## About Me
+🥋 🛼 🛶 Exploring the world of back-end development 🥋 🛼 🛶
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🛹 🎷 A freak in automation 🛹 🎷
+
+### Fun Facts
+🌈 🎱 Curious about virtual reality 🌈 🎱
+
+---
+🏄 🛼 🚣 🏑 🎭 Thanks for visiting my profile! 🎰 🏓 🥊 🎾 🎽
